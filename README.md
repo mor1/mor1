@@ -7,7 +7,6 @@
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/follow/mort___)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109718526201649789?domain=https%3A%2F%2Fmastodon.me.uk)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCi-kA0lwbyEqK-SpO9pd_RQ)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mor1.mor1)
 
 I'm currently Professor of Computing & Human-Data Interaction in the [Department of Computer Science & Technology](https://www.cst.cam.ac.uk/) (aka the [Computer Lab](https://www.cl.cam.ac.uk/)) at the [University of Cambridge](https://www.cam.ac.uk/).
 
@@ -36,3 +35,4 @@ I've also contributed to several open-source projects including: [MirageOS](http
 <a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mor1&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
 <a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mor1&repo=logstash-pipelines&theme=gruvbox""></a>  
 -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mor1.mor1)
