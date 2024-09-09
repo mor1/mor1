@@ -4,11 +4,7 @@ I'm currently Professor of Computing & Human-Data Interaction in the [Department
 
 I've worked in a variety of places and roles prior to coming back to Cambridge -- see [my personal website](https://mort.io/me/) for more details :)
 
-I've also contributed to several open-source projects including:
-- [MirageOS](https://github.com/mirage)
-- [Databox](https://github.com/me-box)
-- [Dataware](https://github.com/dataware)
-- [EDGELESS](https://github.com/edgeless-project)
+I've also contributed to several open-source projects including: [MirageOS](https://github.com/mirage) | [Databox](https://github.com/me-box) | [Dataware](https://github.com/dataware) | [EDGELESS](https://github.com/edgeless-project).
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mor1&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
