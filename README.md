@@ -4,7 +4,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/mor1)
 [![Linkedin Badge](https://img.shields.io/badge/-Richard_Mortier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-mortier/)](https://www.linkedin.com/in/richard-mortier/)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/mort)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/follow/mort___)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109718526201649789?domain=https%3A%2F%2Fmastodon.me.uk)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCi-kA0lwbyEqK-SpO9pd_RQ)
 
